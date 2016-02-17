@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SparkVFD\n"
+"POT-Creation-Date: 2015-02-09 19:55+0100\n"
+"PO-Revision-Date: 2015-02-09 20:01+0100\n"
+"Last-Translator: morser\n"
+"Language-Team: OpenSPA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: Español\n"
+"X-Poedit-SearchPath-0: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/"
+"SparkVFD/plugin\n"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:37
+msgid "Date"
+msgstr "Fecha"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:37
+msgid "Weather"
+msgstr "Tiempo"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:37
+msgid "Date & Weather"
+msgstr "Fecha y Tiempo"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:37
+msgid "Blank"
+msgstr "En blanco"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "/media/hdd"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "/media/hdd1"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "/media/hdd2"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "SysFlash"
+msgstr "Flash Interna"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "/media/usb"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "/media/usb1"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "/media/usb2"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "All mounts"
+msgstr "Todos los montajes"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:39
+msgid "Off"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:73
+msgid "Show on VFD in standby:"
+msgstr "Ver en VFD en standby:"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:75
+msgid "Power LED state in (deep)-standby"
+msgstr "Led de Power en standby"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:78
+msgid "Show on hdd Icons:"
+msgstr "Ver iconos de HDD en:"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:80
+msgid "VFD brightness:"
+msgstr "Brillo del VFD:"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:82
+msgid "VFD in standby:"
+msgstr "VFD en standby"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:93
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:94
+msgid "OK"
+msgstr ""
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:95
+msgid "Clear VFD"
+msgstr "Limpiar VFD"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:130
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:649
+msgid "VFD Display"
+msgstr "Display VFD"
+
+#: /home/morser/Azbox/OpenSPA/repositorio/plugins/nuevos/SparkVFD/plugin/plugin.py:650
+msgid "VFD display config"
+msgstr "Configuración del display VFD"
